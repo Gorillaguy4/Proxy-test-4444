@@ -1,3 +1,0 @@
-mkdir my-proxy
-cd my-proxy
-git init
